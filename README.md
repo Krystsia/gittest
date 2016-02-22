@@ -1,2 +1,4 @@
 # gittest
-The repository for testing and testing.
+<<<<<<< HEAD
+The repository for testing and testing and another.
+
